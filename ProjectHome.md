@@ -1,0 +1,1 @@
+django-gdata is a Django app that provides interfaces and utilities (such as template tags) to ease development for applications that utilize GData.
